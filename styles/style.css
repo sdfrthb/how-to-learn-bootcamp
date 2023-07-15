@@ -37,7 +37,7 @@
   font-weight: 600;
   line-height: 96px;
   align-self: center;
-  margin-left: 64px;
+  margin: 0 0 0 64px;
 }
 
 .header__subtitle {
@@ -47,6 +47,7 @@
   position: absolute;
   left: 64px;
   bottom: 30px;
+  margin: 0;
 }
 
 .header__link {
@@ -91,6 +92,7 @@
   line-height: 1.2;
   font-size: 18px;
   width: 175px;
+  margin: 0;
 }
 
 .two-columns__main-text {
@@ -105,6 +107,7 @@
 .two-columns__paragraph {
   line-height: 34px;
   font-size: 24px;
+  margin: 0;
 }
 
 .two-columns__span-accent {
@@ -224,7 +227,7 @@
 }
 
 .table_theme_dark {
-  margin: 0 auto 150px;
+  margin: 0 auto 90px;
   color: white;
 }
 
@@ -237,6 +240,8 @@
 .footer {
   min-height: 350px;
   background-color: #1f1f1f;
+  padding-top: 60px;
+  padding-bottom: 40px;
 }
 
 .footer__columns {
@@ -272,6 +277,7 @@
 
 .footer__column-heading {
   font-weight: bold;
+  margin: 0;
 }
 
 .footer__column-links {
