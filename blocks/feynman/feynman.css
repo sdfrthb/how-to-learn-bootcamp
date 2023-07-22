@@ -9,4 +9,5 @@
   line-height: 51px;
   font-size: 36px;
   padding-top: 100px;
+  box-sizing: border-box;
 }

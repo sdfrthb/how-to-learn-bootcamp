@@ -94,7 +94,7 @@
 
 @import url(../blocks/cards/__image/cards__image.css);
 
-@import url(../blocks/cards/_title/cards__title.css);
+@import url(../blocks/cards/__title/cards__title.css);
 
 @import url(../blocks/cards/__description/cards__description.css);
 
@@ -134,6 +134,6 @@
 
 @import url(../blocks/resources/__link/resources__link.css);
 
-@import url(../blocks/resources/___logo/resources__logo.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
 
 @import url(../blocks/link-hover/link-hover.css);
